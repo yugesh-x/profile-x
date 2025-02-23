@@ -8,13 +8,16 @@ body{
     background-color: black;
 }
 /* .logo{
-    /* background-color: red; */
+    background-color: red;
     display: flex;
     justify-content: center;
     padding-top: 50px;
-} */
+    }  */
+.name{
+    padding-top: 50px;
+}
 h1{
-    padding: 100px;
+    padding: 50px;
     text-align: center;
     color: white;
 }
